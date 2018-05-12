@@ -1,0 +1,47 @@
+_repo: Moli-re----uvres-compl-tes-Tome-1_40086
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40086-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    - Moliere
+    - Molière, Jean Baptiste Poquelin de
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+  editor:
+    agent_name: Chasles, Philarète
+    alias: Chasles, Philarete
+    birthdate: 1798
+    deathdate: 1873
+    gutenberg_agent_id: '40214'
+    url: http://www.gutenberg.org/2009/agents/40214
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2012-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40086'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 17th century'
+- !lcc 'PQ'
+tableOfContents: "Notice sur J.-B. Poquelin Molière\r\n\t\r\nPREMIÈRE ÉPOQUE (1645-1658).\r\
+  \n-- Le Médecin volant, comédie \t\r\n-- La Jalousie du Barbouillé, comédie \t\r\
+  \n-- L'Étourdi, comédie \t\r\n-- Le Dépit amoureux, comédie\r\n\t\r\nDEUXIÈME ÉPOQUE\
+  \ (1659-1664).\r\n-- Les Précieuses Ridicules. \t\r\n-- Sganarelle, ou le cocu imaginaire,\
+  \ imitation de l'italien. \t\r\n-- Don Garcie de Navarre, imitation de l'espagnol."
+title: Molière - Œuvres complètes, Tome 1
+url: http://www.gutenberg.org/ebooks/40086
